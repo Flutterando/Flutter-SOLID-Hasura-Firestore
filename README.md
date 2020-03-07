@@ -1,6 +1,6 @@
-# firebase_todo
+# firebase_todo and hasura_todo
 
-A new Flutter project.
+Flutter using SOLID
 
 ## Getting Started
 
